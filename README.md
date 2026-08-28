@@ -1,2 +1,4 @@
 # R25EF095-HAMPAN
-This is my Repository for Activity 3 and 4 in Portfolio building
+
+My name is Karna, and I am a B.Tech CSE student. 
+This repository is created as part of the Portfolio Building for Engineering Students course to document my learning, practice Git and GitHub fundamentals, and build my engineering portfolio through practical activities and projects.
