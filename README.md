@@ -6,4 +6,5 @@ This repository is created as part of the Portfolio Building for Engineering Stu
 Learning C Programming
 
 Interested in software development
+My goal is to become a skilled software engineer
 
