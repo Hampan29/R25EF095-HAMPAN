@@ -8,3 +8,7 @@ Learning C Programming
 Interested in software development
 My goal is to become a skilled software engineer
 
+## Projects
+
+### Project 1: C Programming Practice
+A collection of C programming exercises and practice programs created while learning programming fundamentals.
